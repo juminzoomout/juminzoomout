@@ -12,17 +12,15 @@
 
   <div style="margin-bottom: 25px;">
     <b style="font-size: 16px;">Languages</b><br>
-    <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
-    </div>
     <!--<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">-->
   </div>
 
   <div style="margin-bottom: 20px;">
-    <b style="font-size: 16px;">Frameworks & Libraries</b><br>
+    <b style="font-size: 16px;">Frameworks</b><br>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
   </div>
